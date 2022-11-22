@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="199.46" cy="200" r="189.06" fill="#eee9f3"/>
+  <g>
+    <g>
+      <path d="M75.89,367.33S90.67,327.15,90.67,295c0-31.25-29.91-68.3-29.91-111.15,0-37.78,15.13-58,15.13-58" fill="none" stroke="#876199" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      <line x1="94.49" y1="101.26" x2="94.82" y2="101.48" fill="none" stroke="#876199" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+      <path d="M311.26,209c7.12,26.57,12.92,49.15,12.92,49.15H290.24v30.48c0,20.14-17,40-36,40H213.45l-7.19,38.7" fill="none" stroke="#876199" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path d="M117.78,83s29.1-19.26,69.35-19.26c46.45,0,88.81,36,100.44,64.1" fill="none" stroke="#876199" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+    <path d="M133,219V157.61c0-20.78,17.84-44.72,46.08-44.72,18.65,0,35.23,15.48,39.39,25.53,2.93,7.07,13.1,48.38,13.1,48.38h-13v10.9c0,7.21-6.08,14.31-12.87,14.31H189.35v23.54Z" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <polyline points="393.35 72.09 225.06 161.22 393.29 248.67" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>

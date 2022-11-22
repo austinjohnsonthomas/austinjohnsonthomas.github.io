@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="200.45" cy="200" r="189.06" fill="#eee9f3"/>
+  <g>
+    <path d="M87.27,228.82v76.05L177,332.92s27.12,7.8,46.44,0c16.52-6.54,114.08-57,135-68.25,4.06-2.19,9.67-8.42,6.55-15.59h0c-2.81-5.92-7.79-10-20.26-6.54l-72.9,28.63" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <path d="M32.72,317.34h45.2A9.19,9.19,0,0,0,87.27,308V226.64a9.78,9.78,0,0,0-10-9.66H1.55" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <path d="M169,279.13h81.28c1.87-3.11,3.11-6.05,2.8-10.1-.62-8.73-8.41-15.27-17.45-15.27h-45.2c-17.76-24.94-65.14-24.94-65.14-24.94H106.35" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+  <g>
+    <g>
+      <circle cx="199.58" cy="82.52" r="24.87" transform="translate(46.96 235.33) rotate(-67.5)" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path d="M249.31,196.27V145.21A20.41,20.41,0,0,0,228.9,124.8H170.25a20.41,20.41,0,0,0-20.41,20.41v51.06" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+    <g>
+      <circle cx="119.03" cy="102.98" r="24.87" transform="translate(-21.66 173.54) rotate(-67.5)" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path d="M140.48,145.25H89.71A20.41,20.41,0,0,0,69.3,165.67V176.9" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+    <g>
+      <circle cx="278.84" cy="102.98" r="24.87" transform="translate(77 321.19) rotate(-67.5)" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path d="M328.58,177.69v-12a20.41,20.41,0,0,0-20.41-20.42H259.38" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+    <line x1="69.3" y1="190.97" x2="69.3" y2="190.97" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line x1="328.58" y1="190.97" x2="328.58" y2="190.97" fill="none" stroke="#86629a" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>

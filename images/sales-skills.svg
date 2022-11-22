@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="200" cy="200" r="189.06" fill="#fdeced"/>
+  <g>
+    <path d="M281.42,183.71c0,8.37-15,14.27-17.43,21.82-2.54,7.83,6,21.39,1.28,27.91s-20.37,2.6-26.95,7.38-7.51,20.82-15.34,23.36c-7.55,2.45-17.78-9.88-26.15-9.88s-18.59,12.33-26.14,9.88c-7.83-2.54-8.83-18.61-15.35-23.36s-22.15-.8-26.94-7.38,3.82-20.08,1.28-27.91c-2.45-7.55-17.44-13.45-17.44-21.82s15-14.27,17.44-21.82c2.54-7.83-6-21.39-1.28-27.91s20.36-2.6,26.94-7.39,7.52-20.81,15.35-23.35c7.55-2.45,17.77,9.88,26.14,9.88s18.6-12.33,26.15-9.88c7.83,2.54,8.83,18.61,15.34,23.35s22.16.81,26.95,7.39-3.82,20.08-1.28,27.91C266.44,169.44,281.42,175.34,281.42,183.71Z" fill="none" stroke="#b2a8d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <g>
+      <g>
+        <line x1="234.3" y1="146.25" x2="158.79" y2="221.76" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+        <g>
+          <path d="M219.43,145.44h15.68v17.45" fill="none" stroke="#b7a452" stroke-linejoin="round" stroke-width="0.77"/>
+          <path d="M219.43,145.44h15.68v17.45" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+        </g>
+      </g>
+      <circle cx="218.64" cy="207.52" r="14.46" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <circle cx="173.01" cy="161.89" r="14.46" fill="none" stroke="#f0647e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+  </g>
+  <g>
+    <path d="M81.41,372.87s15.11-41.08,15.11-73.94c0-32-30.59-69.85-30.59-113.67,0-38.63,15.48-59.34,15.48-59.34" fill="none" stroke="#876199" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+    <line x1="100.43" y1="100.8" x2="100.76" y2="101.03" fill="none" stroke="#876199" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
+    <path d="M124.24,82.09S154,62.4,195.16,62.4c47.5,0,90.81,36.8,102.7,65.54,8.36,20.2,37.44,133.31,37.44,133.31H300.6v31.17c0,20.59-17.36,40.88-36.78,40.88H222.07l-7.35,39.57" fill="none" stroke="#876199" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>
